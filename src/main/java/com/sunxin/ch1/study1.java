@@ -1,7 +1,7 @@
 package com.sunxin.ch1;
 
 public class study1 {
-    public static void main(String[] srgs)
+    public static void main(String[] args)
     {
         String result ="";
         for (int i = 0 ;i<6;i++)

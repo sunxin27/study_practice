@@ -24,11 +24,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/java/jdk1.8.0_221" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,13 +43,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="study1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch1.study1" />
+  <component name="RunManager" selected="Application.test5">
+    <configuration name="TEST2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch2.TEST2" />
       <module name="study_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sunxin.ch1.*" />
+          <option name="PATTERN" value="com.sunxin.ch2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch2.test1" />
+      <module name="study_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunxin.ch2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch2.test3" />
+      <module name="study_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunxin.ch2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch2.test4" />
+      <module name="study_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunxin.ch2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch2.test5" />
+      <module name="study_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunxin.ch2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,7 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.study1" />
+        <item itemvalue="Application.test5" />
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.test3" />
+        <item itemvalue="Application.TEST2" />
+        <item itemvalue="Application.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -72,7 +129,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567520898183</updated>
-      <workItem from="1567520901611" duration="5572000" />
+      <workItem from="1567520901611" duration="7834000" />
+      <workItem from="1567694921801" duration="460000" />
+      <workItem from="1567695451615" duration="474000" />
     </task>
     <servers />
   </component>
@@ -84,7 +143,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

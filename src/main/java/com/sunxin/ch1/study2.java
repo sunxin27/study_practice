@@ -8,8 +8,8 @@ public class study2 {
         System.out.println("请输入行数");
         int hang=sc.nextInt();
         System.out.println("请输入列数");
-        int lie=sc.nextInt();
-        show(hang,lie);
+        int lie1 = sc.nextInt();
+        show(hang,lie1);
     }
     public static void show(int hang,int lie){
         for(int i=1;i<=hang;i++){
