@@ -43,13 +43,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test5">
-    <configuration name="TEST2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch2.TEST2" />
+  <component name="RunManager" selected="Application.ArayTest2">
+    <configuration name="ArayTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch3.ArayTest2" />
       <module name="study_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sunxin.ch2.*" />
+          <option name="PATTERN" value="com.sunxin.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch2.test1" />
+    <configuration name="ArayTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch3.ArayTest3" />
       <module name="study_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sunxin.ch2.*" />
+          <option name="PATTERN" value="com.sunxin.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch2.test3" />
+    <configuration name="ArrayTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch3.ArrayTest1" />
       <module name="study_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sunxin.ch2.*" />
+          <option name="PATTERN" value="com.sunxin.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch2.test4" />
+    <configuration name="ArrayTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch3.ArrayTest3" />
       <module name="study_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sunxin.ch2.*" />
+          <option name="PATTERN" value="com.sunxin.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch2.test5" />
+    <configuration name="RSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunxin.ch3.RSort" />
       <module name="study_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sunxin.ch2.*" />
+          <option name="PATTERN" value="com.sunxin.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test5" />
-        <item itemvalue="Application.test4" />
-        <item itemvalue="Application.test3" />
-        <item itemvalue="Application.TEST2" />
-        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.ArayTest2" />
+        <item itemvalue="Application.ArayTest3" />
+        <item itemvalue="Application.ArrayTest3" />
+        <item itemvalue="Application.RSort" />
+        <item itemvalue="Application.ArrayTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <updated>1567520898183</updated>
       <workItem from="1567520901611" duration="7834000" />
       <workItem from="1567694921801" duration="460000" />
-      <workItem from="1567695451615" duration="474000" />
+      <workItem from="1567695451615" duration="2770000" />
     </task>
     <servers />
   </component>
